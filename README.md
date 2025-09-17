@@ -37,7 +37,7 @@ By completing this assignment, you will:
 
 ### Task 4: Result Submission
 1. Add your results to Git using one of:
-    - `git add processed_email.txt` 
+    - `git add processed_email.txt`
     - Use the VS Code GUI
     - Upload to your GitHub repo on the web
 2. Commit with a descriptive message using one of: 

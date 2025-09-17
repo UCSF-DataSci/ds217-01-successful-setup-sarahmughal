@@ -14,6 +14,7 @@ I am excited to learn some new data analysis skills using Python, and how I can 
 
 ## 3. What are you most looking forward to or tentative about?
 [What excites you about programming/data science? What concerns or uncertainties do you have?]
+I am excited to learn more about the emerging research and applications of data science and artificial intelligence to healthcare datasets!
 
 ## 4. Share something you enjoy!
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
